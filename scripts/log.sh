@@ -11,4 +11,4 @@ NAME="$NAME`echo $CMD | sed -nr 's/.*-Didea.platform.prefix=([a-zA-Z]*) .*/ - \1
 
 IDLE=`xprintidle`
 
-echo `date "+%H:%M"`,$IDLE,$NAME >> /home/sichaoyang/Diary/logs/raw/`date "+%Y%m%d"`.csv
+echo "`date "+%H:%M"`,$IDLE,$NAME" >> /home/sichaoyang/Diary/logs/raw/`date "+%Y%m%d"`.csv

@@ -1,42 +1,249 @@
-14:56,6,rosemary-pnc - Pony.ai - 1 new item - Slack
-14:57,3,GitHub - Google Chrome
-14:58,8521,rosemary-pnc - Pony.ai - 1 new item - Slack
-14:59,34,Diary - nautilus
-15:00,10753,Text Import - [20221202.csv]
-15:01,0,log.sh (~/Diary/scripts) - gedit
-15:02,4180,Terminal
-15:03,1,*log.sh (~/Diary/scripts) - gedit
-15:04,406,*log.sh (~/Diary/scripts) - gedit
-15:05,197,*log.sh (~/Diary/scripts) - gedit
-15:06,7,
-15:07,114,Terminal
-15:08,7,log.sh (~/Diary/scripts) - gedit
-15:09,26919,20221202.csv - LibreOffice Calc
-15:10,33084,20221202.csv - LibreOffice Calc
-15:11,8698,Diary - nautilus
-15:12,8748,Diary - nautilus
-15:13,68825,Diary - nautilus
-15:14,11803,Diary - nautilus
-15:15,7,Diary - nautilus
-15:16,1,
-15:17,21331,Diary - nautilus
-15:18,5,Board - Task - Jira - Google Chrome
-15:19,239,Board - Task - Jira - Google Chrome
-15:20,61,New Tab - Google Chrome
-15:21,7,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:22,1412,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:23,49,crontab - Google Search - Google Chrome
-15:24,1186,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:25,374,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:26,7173,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:27,129,Untitled - Google Chrome
-15:28,90,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:29,4,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:30,2,20221202.csv - LibreOffice Calc
-15:31,12,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:32,5519,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:33,474,[TASK-20] Automatic activity logging. - Jira - Google Chrome
-15:34,1857,Terminal
-15:35,0,GitHub - Google Chrome
-15:36,120,logs - nautilus
-15:37,33,Create a New Repository - Google Chrome
+17:00,2,raw - nautilus
+17:01,156,pandas.read_csv — pandas 1.5.2 documentation - Google Chrome
+17:02,6104,Diary – clean.ipynb - Python
+17:03,1096,Diary – clean.ipynb - Python
+17:04,1349,Diary – clean.ipynb - Python
+17:05,5,Diary – clean.py - Python
+17:06,554,Diary – clean.ipynb - Python
+17:07,177,time — Time access and conversions — Python 3.11.0 documentation - Google Chrome
+17:08,668,Diary – clean.ipynb - Python
+17:09,497,Diary – clean.ipynb - Python
+17:10,13427,Diary – clean.ipynb - Python
+17:11,27,Diary – clean.ipynb - Python
+17:12,162,Diary – clean.ipynb - Python
+17:13,14,Diary – clean.ipynb - Python
+17:14,19068,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:15,2,[RTI-10624523] Hashtag : #MANDARIN / 开始录音储量不大陆线上请重新选择# at 1669898392.00 in trip 20221201/p6092/184944 - PonyAI JIRA - Google Chrome
+17:16,180,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:17,1421,Pony VOD - Google Chrome
+17:18,5,Pony VOD - Google Chrome
+17:19,69,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:20,3315,Pony VOD - Google Chrome
+17:21,10,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:22,3786,Pony VOD - Google Chrome
+17:23,71,Pony VOD - Google Chrome
+17:24,1016,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:25,23,.sub-repos - CLion
+17:26,3,Pony VOD - Google Chrome
+17:27,648,Pony VOD - Google Chrome
+17:28,1392,.sub-repos – planner_master.cc (unsynced) - CLion
+17:29,80,.sub-repos – route_lib.cc (unsynced) - CLion
+17:30,34,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:31,36,.sub-repos – planner_utils.cc (unsynced) - CLion
+17:32,2059,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:33,813,.sub-repos – planner_master.cc (unsynced) - CLion
+17:34,40,Zhuang Yi - Pony.ai - 1 new item - Slack
+17:35,1014,.sub-repos – planner_master.cc (unsynced) - CLion
+17:36,14,Zhuang Yi - Pony.ai - 2 new items - Slack
+17:37,179,.sub-repos – planner_master.cc (unsynced) - CLion
+17:38,496,Zhuang Yi - Pony.ai - 2 new items - Slack
+17:39,11,Zhuang Yi - Pony.ai - 2 new items - Slack
+17:40,0,pnc/planner/planner_master.cc at fabf6a2d934a4ca9504d91b77a93486133e21c76 · ponyai/pnc - Google Chrome
+17:41,168,Pony VOD - Google Chrome
+17:42,760,Pony VOD - Google Chrome
+17:43,38523,Pony VOD - Google Chrome
+17:44,202,Pony VOD - Google Chrome
+17:45,74,Pony VOD - Google Chrome
+17:46,234,.sub-repos – planner_module.cc (unsynced) - CLion
+17:47,231,.sub-repos – planner_master.cc (unsynced) - CLion
+17:48,1943,Pony VOD - Google Chrome
+17:49,470,Pony VOD - Google Chrome
+17:50,873,.sub-repos – planner_utils.cc (unsynced) - CLion
+17:51,251,.sub-repos – planner_utils.cc (unsynced) - CLion
+17:52,11,Threads - Pony.ai - 1 new item - Slack
+17:53,26,Threads - Pony.ai - 1 new item - Slack
+17:54,9,Threads - Pony.ai - 1 new item - Slack
+17:55,314,Threads - Pony.ai - 1 new item - Slack
+17:56,56,Pony VOD - Google Chrome
+17:57,87,Terminal
+17:58,57658,Terminal
+17:59,117791,Terminal
+18:00,177923,Terminal
+18:01,48710,Terminal
+18:02,621,.sub-repos – planner_utils.cc (unsynced) - CLion
+18:03,48,.sub-repos – planner_world.cc (unsynced) - CLion
+18:04,33,.sub-repos – route_lib.cc (unsynced) - CLion
+18:05,2,[RTI-10624523] Hashtag : #MANDARIN / 开始录音储量不大陆线上请重新选择# at 1669898392.00 in trip 20221201/p6092/184944 - PonyAI JIRA - Google Chrome
+18:06,5,Terminal
+18:07,6,Terminal
+18:08,186,Terminal
+18:09,58186,Terminal
+18:10,8927,Terminal
+18:11,7,Planner Viewer Replay [remote_dir: /daxing/truncated_data_v2/issue_bot/hashtag/20221201/p6092-184944-1669898372.atomic.zip]
+18:12,218,Planner Viewer Replay [remote_dir: /daxing/truncated_data_v2/issue_bot/hashtag/20221201/p6092-184944-1669898372.atomic.zip]
+18:13,6,Planner Viewer Replay [remote_dir: /daxing/truncated_data_v2/issue_bot/hashtag/20221201/p6092-184944-1669898372.atomic.zip]
+18:14,464,Planner Viewer Replay [remote_dir: /daxing/truncated_data_v2/issue_bot/hashtag/20221201/p6092-184944-1669898372.atomic.zip]
+18:15,10197,Planner Viewer Replay [remote_dir: /daxing/truncated_data_v2/issue_bot/hashtag/20221201/p6092-184944-1669898372.atomic.zip]
+18:16,12980,Terminal
+18:17,2764,Pony VOD - Google Chrome
+18:18,18,[RTI-10624523] Hashtag : #MANDARIN / 开始录音储量不大陆线上请重新选择# at 1669898392.00 in trip 20221201/p6092/184944 - PonyAI JIRA - Google Chrome
+18:19,69,Text Import - [20221202.csv]
+18:20,260,Terminal
+18:21,34,Terminal
+18:22,85,nizeng, Ying Pan, Zhuang Yi - Pony.ai - 3 new items - Slack
+18:23,3954,Terminal
+18:24,38,Terminal
+18:25,32949,Terminal
+18:26,30,[RTI-10624523] Hashtag : #MANDARIN / 开始录音储量不大陆线上请重新选择# at 1669898392.00 in trip 20221201/p6092/184944 - PonyAI JIRA - Google Chrome
+18:27,3730,Terminal
+18:28,38,Terminal
+18:29,112,Diary – clean.ipynb - Python
+18:30,502,Diary – clean.ipynb - Python
+18:31,148,Diary – clean.ipynb - Python
+18:32,53585,Terminal
+18:33,112672,Terminal
+18:34,9248,Diary – clean.ipynb - Python
+18:35,69338,Diary – clean.ipynb - Python
+18:36,325,Diary – clean.ipynb - Python
+18:37,11974,Diary – clean.ipynb - Python
+18:38,79,[RTI-10624523] Hashtag : #MANDARIN / 开始录音储量不大陆线上请重新选择# at 1669898392.00 in trip 20221201/p6092/184944 - PonyAI JIRA - Google Chrome
+18:39,4,Diary – clean.ipynb - Python
+18:40,67,Diary – clean.ipynb - Python
+18:41,205,Diary – clean.ipynb - Python
+18:42,136,Diary – clean.ipynb - Python
+18:43,144,Zhuang Yi - Pony.ai - 2 new items - Slack
+18:44,214,1015 truck tile based release testing binary track - Google Sheets - Google Chrome
+18:45,4800,Diary – clean.ipynb - Python
+18:46,2969,Diary – clean.ipynb - Python
+18:47,4062,Diary – clean.ipynb - Python
+18:48,35,Diary – clean.ipynb - Python
+18:49,3899,Diary – clean.ipynb - Python
+19:11,2880,Diary – clean.ipynb - Python
+19:12,41,python - Is there a datetime ± infinity? - Stack Overflow - Google Chrome
+19:13,22,Diary – clean.ipynb - Python
+19:14,6938,Diary – clean.ipynb - Python
+19:15,17,Diary – clean.ipynb - Python
+19:16,1240,Diary – clean.ipynb - Python
+19:17,18,Diary – clean.ipynb - Python
+19:18,1,Diary – clean.ipynb - Python
+19:19,197,Diary – clean.ipynb - Python
+19:20,13,Diary – clean.ipynb - Python
+19:21,50193,Diary – clean.ipynb - Python
+19:22,7333,Diary – clean.ipynb - Python
+19:23,67438,Diary – clean.ipynb - Python
+19:24,127544,Diary – clean.ipynb - Python
+19:25,186631,Diary – clean.ipynb - Python
+19:26,246720,Diary – clean.ipynb - Python
+19:27,306807,Diary – clean.ipynb - Python
+19:28,366891,Diary – clean.ipynb - Python
+19:29,426976,Diary – clean.ipynb - Python
+19:30,30047,Diary – clean.ipynb - Python
+19:31,90132,Diary – clean.ipynb - Python
+19:32,150220,Diary – clean.ipynb - Python
+19:33,210310,Diary – clean.ipynb - Python
+19:34,270406,Diary – clean.ipynb - Python
+19:35,330494,Diary – clean.ipynb - Python
+19:36,389586,Diary – clean.ipynb - Python
+19:37,449674,Diary – clean.ipynb - Python
+19:38,509760,Diary – clean.ipynb - Python
+19:39,569851,Diary – clean.ipynb - Python
+19:40,629944,Diary – clean.ipynb - Python
+19:41,690050,Diary – clean.ipynb - Python
+19:42,750138,Diary – clean.ipynb - Python
+19:43,810230,Diary – clean.ipynb - Python
+19:44,870316,Diary – clean.ipynb - Python
+19:45,930404,Diary – clean.ipynb - Python
+19:46,990497,Diary – clean.ipynb - Python
+19:47,1049584,Diary – clean.ipynb - Python
+19:48,1109670,Diary – clean.ipynb - Python
+19:49,1169774,Diary – clean.ipynb - Python
+19:50,1229863,Diary – clean.ipynb - Python
+19:51,1289948,Diary – clean.ipynb - Python
+19:52,1350037,Diary – clean.ipynb - Python
+19:53,1410126,Diary – clean.ipynb - Python
+19:54,1470210,Diary – clean.ipynb - Python
+19:55,1530299,Diary – clean.ipynb - Python
+19:56,1590386,Diary – clean.ipynb - Python
+19:57,1650477,Diary – clean.ipynb - Python
+19:58,1710568,Diary – clean.ipynb - Python
+19:59,1769653,Diary – clean.ipynb - Python
+20:00,1829758,Diary – clean.ipynb - Python
+20:01,1889846,Diary – clean.ipynb - Python
+20:02,1949933,Diary – clean.ipynb - Python
+20:03,2010022,Diary – clean.ipynb - Python
+20:04,2070113,Diary – clean.ipynb - Python
+20:05,2130218,Diary – clean.ipynb - Python
+20:06,2190307,Diary – clean.ipynb - Python
+20:07,2250394,Diary – clean.ipynb - Python
+20:08,2310500,Diary – clean.ipynb - Python
+20:09,2369602,Diary – clean.ipynb - Python
+20:10,2429694,Diary – clean.ipynb - Python
+20:11,2489781,Diary – clean.ipynb - Python
+20:12,2549885,Diary – clean.ipynb - Python
+20:13,2609975,Diary – clean.ipynb - Python
+20:14,2670069,Diary – clean.ipynb - Python
+20:15,2730153,Diary – clean.ipynb - Python
+20:16,2790240,Diary – clean.ipynb - Python
+20:17,53,Threads - Pony.ai - 1 new item - Slack
+20:18,65,Threads - Pony.ai - 1 new item - Slack
+20:19,1043,Untitled - Google Chrome
+20:20,46278,Fix RouteLib crash due to empty route in litebox. by sichao-ponyai · Pull Request #41604 · ponyai/pnc - Google Chrome
+20:21,35026,Fix RouteLib crash due to empty route in litebox. by sichao-ponyai · Pull Request #41604 · ponyai/pnc - Google Chrome
+20:22,95114,Fix RouteLib crash due to empty route in litebox. by sichao-ponyai · Pull Request #41604 · ponyai/pnc - Google Chrome
+20:23,4073,Diary – clean.ipynb - Python
+20:24,9440,Diary – clean.ipynb - Python
+20:25,101,Diary – clean.ipynb - Python
+20:26,72,python reverse iterate list - Google Search - Google Chrome
+20:27,7833,python reverse list - Google Search - Google Chrome
+20:28,67921,python reverse list - Google Search - Google Chrome
+20:29,128008,python reverse list - Google Search - Google Chrome
+20:30,188096,python reverse list - Google Search - Google Chrome
+20:31,20939,Diary – clean.ipynb - Python
+20:32,2,Diary – clean.ipynb - Python
+20:33,8084,Diary – clean.ipynb - Python
+20:34,317,Diary – clean.ipynb - Python
+20:35,23221,Diary – clean.ipynb - Python
+20:36,10150,Diary – clean.ipynb - Python
+20:37,13,Diary – clean.ipynb - Python
+20:38,1611,Diary – clean.ipynb - Python
+20:39,2,Diary – clean.ipynb - Python
+20:40,524,Diary – clean.ipynb - Python
+20:41,583,python reverse list - Google Search - Google Chrome
+20:42,122,Diary – clean.ipynb - Python
+20:43,254,Diary – clean.ipynb - Python
+20:44,3,Diary – clean.ipynb - Python
+20:45,13935,Diary – clean.ipynb - Python
+20:46,74026,Diary – clean.ipynb - Python
+20:47,1910,Diary – clean.ipynb - Python
+20:48,9988,Diary – clean.ipynb - Python
+20:49,13949,Diary – clean.ipynb - Python
+20:50,52372,Diary – clean.ipynb - Python
+20:51,99,Diary – clean.ipynb - Python
+20:52,20330,Diary – clean.ipynb - Python
+20:53,41768,Diary – clean.ipynb - Python
+20:54,283,Diary – clean.ipynb - Python
+20:55,28,PEP 8 – Style Guide for Python Code | peps.python.org - Google Chrome
+20:56,28,Diary – log_processing_utils.py - Python
+20:57,7,Diary – log_processing_utils.py - Python
+20:58,17,Diary – log_processing_utils.py - Python
+20:59,10,python file io - Google Search - Google Chrome
+21:00,280,Python - Files I/O - Google Chrome
+21:01,96,Diary – log_processing_utils.py - Python
+21:02,25,Diary – log_processing_utils.py - Python
+21:03,117,Diary – clean.ipynb - Python
+21:04,22,20221202.txt (~/Diary/logs) - gedit
+21:05,4,Diary – clean.ipynb - Python
+21:06,8558,Python - Command Line Arguments - Google Chrome
+21:07,19054,Python - Command Line Arguments - Google Chrome
+21:08,59,Diary – log_processing_main.py - Python
+21:09,2121,Diary – log_processing_main.py - Python
+21:10,1056,Diary – clean.ipynb - Python
+21:11,888,Diary – clean.ipynb - Python
+21:12,99,Pull Requests - Google Chrome
+21:13,418,Slackbot - Pony.ai - Slack
+21:14,3715,Slackbot - Pony.ai - Slack
+21:15,14,string - How do I get the filename without the extension from a path in Python? - Stack Overflow - Google Chrome
+21:16,69,Diary – clean.ipynb - Python
+21:17,168,Diary – log_processing_main.py - Python
+21:18,415,Diary – log_processing_main.py - Python
+21:19,266,Diary – log_processing_main.py - Python
+21:20,803,Diary – process_logs.py - Python
+21:21,143,Diary – process_logs.py - Python
+21:22,940,Terminal
+21:23,903,Diary – process_logs.py - Python
+21:24,134,scripts - nautilus
+21:25,949,Terminal
+21:26,903,Terminal
+21:27,118,
+21:28,6,gitignore __pycache__ - Google Search - Google Chrome
+21:29,1019,Diary - nautilus
